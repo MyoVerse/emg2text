@@ -12,7 +12,6 @@ perspective},
 }
 ```
 
-```text
 We present a neuromuscular speech interface
 that translates silently voiced articulations
 directly into text. We record surface elec-
