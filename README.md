@@ -36,3 +36,9 @@ dimensional EMG signals and demonstrate
 direct sequence-to-sequence EMG-to-text
 conversion at the phonemic level without
 relying on time-aligned audio.
+
+```text
+
+See this link for instructions on how to download the data:
+
+https://github.com/HarshavardhanaTG/emg2speech
