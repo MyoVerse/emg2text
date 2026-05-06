@@ -18,7 +18,7 @@ that translates silently voiced articulations
 directly into text. We record surface elec-
 tromyographic (EMG) signals from multiple
 articulatory sites on the face and neck as
-participants <em>silently</em> articulate speech, enabling
+participants *silently* articulate speech, enabling
 direct EMG-to-text translation. Such an
 interface has the potential to restore commu-
 nication for individuals who have lost the
@@ -27,9 +27,9 @@ laryngectomy, neuromuscular disease, stroke,
 or trauma-induced damage (e.g., radiotherapy
 toxicity) to the speech articulators. Prior work
 has largely focused on mapping EMG collected
-during <em>audible</em> articulation to time-aligned
+during *audible* articulation to time-aligned
 audio targets or transferring these targets to
-<em>silent</em> EMG recordings, which inherently
+*silent* EMG recordings, which inherently
 requires audio and limits applicability to
 patients who can no longer speak. In contrast,
 we propose an efficient representation of high-
