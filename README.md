@@ -45,7 +45,8 @@ To obtain the data:
 
     1. Download the data from: https://osf.io/bgh7t/ (under Files/Box).
 
-    (https://osf.io/bgh7t/files/box - the OSF site shows them as 0B since they are hosted externally. You can still click on individual files and download them. 0B is misleading.)
+    (https://osf.io/bgh7t/files/box - the OSF site shows them as 0B since they are
+     hosted externally. You can still click on individual files and download them. 0B is misleading.)
 
     2. Unzip it into the root project directory so it looks like this:
         emg2speech/
